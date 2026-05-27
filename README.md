@@ -20,8 +20,13 @@ This project explores historical UK air quality data using time series analysis 
 - Interactive visualisation concepts
 - Presentation of findings through statistical plots and forecasting outputs
 
-## Dataset
-UK Air Quality monitoring data sourced from AURN/OpenAQ datasets.
+## Dataset Source
+
+This project utilised the UK DEFRA AURN Air Quality Dataset (2015–2023), available on Kaggle:
+
+- https://www.kaggle.com/datasets/airqualityanthony/uk-defra-aurn-air-quality-data-2015-2023
+
+The raw dataset files are not included in this repository due to GitHub storage limitations.
 
 ## Repository Contents
 - `.R` analysis file
